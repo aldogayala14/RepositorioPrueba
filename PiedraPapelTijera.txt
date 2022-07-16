@@ -1,0 +1,15 @@
+
+################################################################
+##############  MI PRIMER JUEGO  ###############################
+################################################################
+
+# REGLAS
+# PIEDRA MATA TIJERA
+# TIJERA MATA PAPEL
+# PAPEL MATA PIEDRA
+
+
+
+1 - Hacer que el programa permita el ingreso de una jugada por parte del usuario
+2 - Hacer que la maquina juegue contra el usuario
+3 - Hacer que el programa determine cual es el mejor de 3
